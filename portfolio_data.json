@@ -1,7 +1,7 @@
 [{
     "id":1,
     "name": "Drum",
-    "descr": "Simple website",
+    "descr": "Website with some audio",
     "img": "https://ibb.co/Sm3FjqL",
     "images": "https://ibb.co/cLbDBxk",
     "github": "https://github.com/VinczeDaniel2/Concert",
