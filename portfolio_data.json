@@ -3,16 +3,16 @@
     "name": "Drum",
     "descr": "Website with some audio",
     "img": "https://ibb.co/Sm3FjqL",
-    "images": "https://ibb.co/cLbDBxk",
-    "github": "https://github.com/VinczeDaniel2/Concert",
+    "images": "https://i.ibb.co/kyh5QHN/drums.png",
+    "github": "https://i.ibb.co/SNd7vrb/responsive-drums.png",
     "hosted": "https://vinczedaniel2.github.io/Concert/"
 
 },{
     "id":2,
     "name": "Travel Agency",
     "descr": "Website for a travelling agency",
-    "img": "https://ibb.co/C93Rq7k",
-    "images": "https://ibb.co/fSnVPrk",
+    "img": "https://i.ibb.co/1mPnrNL/travel.png",
+    "images": "https://i.ibb.co/VH0hkZ6/travel-responsive.png",
     "github": "https://github.com/VinczeDaniel2/Travel-Agency",
     "hosted": "https://vinczedaniel2.github.io/Travel-Agency/"
 }]
